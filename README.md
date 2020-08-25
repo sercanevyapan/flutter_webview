@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![GitHub Logo](https://github.com/sercanevyapan/flutter_webview/blob/master/flutter_01.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
